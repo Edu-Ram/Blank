@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fortune Dices</string>
+    <string name="lblNom">Name</string>
+    <string name="lblFecN">Birth</string>
+    <string name="lblApuesta">Betting fund</string>
+    <string name="lblDados">Number of dice</string>
+    <string name="lblIngresar">Enter</string>
+    <string name="roll">Roll</string>
+    <string name="player">Player</string>
+    <string name="points">Points</string>
+    <string name="Available">Available</string>
+    <string name="Bet">Bet</string>
+    <string name="games_dices">Game dice</string>
+    <string name="game_status">Game Status</string>
+    <string name="game_status_01">You are a winner</string>
+    <string name="game_status_02">You didn’t lose anything…</string>
+    <string name="game_status_03">You shouldn\'t be playing… Walk away</string>
+    <string name="game_status_04">You lost it all… Don\'t play again!</string>
+</resources>

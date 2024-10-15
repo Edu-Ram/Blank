@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Fortune Dices</string>
+    <string name="lblNom">Nombre</string>
+    <string name="lblFecN">Nacido</string>
+    <string name="lblApuesta">Fondo de Apuesta</string>
+    <string name="lblDados">Cantidad de dados</string>
+    <string name="lblIngresar">Ingresar</string>
+    <string name="roll">Lanzar</string>
+    <string name="player">Jugador</string>
+    <string name="points">Puntaje</string>
+    <string name="Available">Disponible</string>
+    <string name="Bet">Apostado</string>
+    <string name="games_dices">Dados de juego</string>
+    <string name="game_status">Estado de juego</string>
+    <string name="game_status_01">Eres un ganador</string>
+    <string name="game_status_02">Te salvaste…</string>
+    <string name="game_status_03">No deberías de jugar…Retírate</string>
+    <string name="game_status_04">Lo perdiste todo….No vuelvas a jugar!</string>
+
+</resources>
